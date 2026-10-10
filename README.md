@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/Last%20Commit-Week%208-6366f1?style=flat-square" alt="Last Commit"/>
 </p>
 
+<div align="center">
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/hamna-munir-08-ai-business-agent-8ykh4h?v=daba5e785527aa39524326a7329fb551)](https://m8ven.ai/mcp/hamna-munir-08-ai-business-agent-8ykh4h?s=readme)
+
+</div>
+
 <p align="center">
   An AI agent that investigates a real business question against a real SQLite database — through a real MCP server — and writes an evidence-grounded report instead of a chatbot guess.<br/>
   Eighth deliverable of a <b>90-day AI Engineering roadmap</b> (Phase 1: Foundation, Week 8).
